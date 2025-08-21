@@ -31,7 +31,7 @@ The goal of this project is to analyze the **global adoption trends of Electric 
 - A positive but **non-linear relationship** exists between **electric range and base MSRP**—higher range EVs generally cost more, but exceptions exist.  
 - EV adoption is **geographically concentrated**, with the top 10 cities accounting for a disproportionate share of vehicles.  
 
-## 📊 Final Report / Conclusion  
+## 📊 Final Report
 The analysis highlights that **EV adoption is accelerating but unevenly distributed** across geographies. While major manufacturers and urban centers dominate the current landscape, the future will likely see wider distribution as costs decrease and infrastructure improves.  
 
 This project demonstrates the use of **Python for data-driven storytelling** and provides a foundation for deeper policy or market-focused EV studies.  
